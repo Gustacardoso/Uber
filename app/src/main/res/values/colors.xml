@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E125F8</color>
+    <color name="colorPrimaryDark">#6E08A2</color>
+    <color name="colorAccent">#320752</color>
+    <color name="bt_entrar">#700F99</color>
+    <color name="bt_cadastrar">#480968</color>
+    <color name="white">#FFF6F4F7</color>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Uber</string>
+    <string name="title_activity_maps" translatable="false">Map</string>
+    <string name="titulo_cadastro" translatable="false">Cadastrar Uma Conta</string>
+    <string name="titulo_login">Tela de Login</string>
+    <string name="Email" translatable="false">Email Valido</string>
+    <string name="Senha" translatable="false">Senha</string>
+    <string name="Btentrar" translatable="false">Entrar</string>
+    <string name="nome" translatable="false">Nome Completo</string>
+    <string name="Motorista" translatable="false">Motorista</string>
+    <string name="passageiro" translatable="false">Passageiro</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="title_activity_passageiro">PassageiroActivity</string>
+    <string name="title_activity_corrida">CorridaActivity</string>
+</resources>
